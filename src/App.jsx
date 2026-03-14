@@ -19,7 +19,7 @@ function App() {
   return (
     <div>
       <div className="heading-img-container">
-        <img src="./public/ninni_nanni1.gif" alt="ninni nanni" />
+        <img src="./public/ninni_nanni1.gif" alt="ninni nanni :)" />
       </div>
 
       <div className="zing-box">
